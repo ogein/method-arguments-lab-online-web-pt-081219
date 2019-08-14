@@ -1,5 +1,5 @@
 def introduction(name)
-  puts "#{name}"
+  puts "Hi, my name is #{name}.\n"
 end
 
 
